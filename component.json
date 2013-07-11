@@ -2,7 +2,7 @@
   "name": "transitionend-property",
   "repo": "component/transitionend-property",
   "description": "get the browser specific transition-end property",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {},
