@@ -16,7 +16,7 @@ el.addEventListener(transitionend, fn);
 
 ## API
 
-  Exports the name of transform property as a String or null if the property is not supported.
+  Exports the name of transform property as a `String` or `null` if the property is not supported.
 
 ## License
 
