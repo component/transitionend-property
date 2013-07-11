@@ -1,0 +1,16 @@
+{
+  "name": "transitionend-property",
+  "repo": "component/transitionend-property",
+  "description": "get the browser specific transition-end property",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/transform-property": "0.0.1"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
