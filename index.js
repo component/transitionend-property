@@ -1,10 +1,4 @@
 /**
- * Module Dependencies
- */
-
-var transform = require('transform-property');
-
-/**
  * Transition-end mapping
  */
 

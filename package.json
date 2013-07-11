@@ -3,12 +3,9 @@
   "repo": "component/transitionend-property",
   "description": "get the browser specific transition-end property",
   "version": "0.0.1",
-  "keywords": [],
-  "dependencies": {},
-  "development": {},
-  "license": "MIT",
-  "main": "index.js",
-  "scripts": [
-    "index.js"
-  ]
+  "component": {
+    "scripts": {
+      "transitionend-property/index.js": "index.js"
+    }
+  }
 }
